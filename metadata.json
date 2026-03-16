@@ -1,0 +1,7 @@
+{
+  "name": "ASL Fingerspelling TEST",
+  "description": "A playful interactive game to learn ASL fingerspelling with real-time hand tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
